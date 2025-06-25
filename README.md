@@ -8,7 +8,7 @@ It’s designed as a hands-on portfolio project for showcasing your capabilities
 
 -------------------------------------------------------------------------------------------------------------------
 📌 Highlights
-
+--------------------------------------------------------------------------------------------------------------------
 🏗️ Architecture: Implements a Medallion Data Architecture with Bronze, Silver, and Gold layers.
 
 🔄 ETL Pipelines: Streamlined processes for extracting, transforming, and loading data using SQL Server.
@@ -17,8 +17,10 @@ It’s designed as a hands-on portfolio project for showcasing your capabilities
 
 📊 SQL Analytics: Actionable insights covering customer behavior, sales performance, and product trends.
 
+--------------------------------------------------------------------------------------------------------
 📈 Dashboards: Optional integration with visualization tools (Power BI or Tableau-ready).
 ----------------------------------------------------------------------------------------------------------
+
 🧠 Ideal For Roles Such As:
 
 Data Engineer
@@ -32,10 +34,10 @@ Analytics Consultant
 Data Architect
 
 Business Intelligence Analyst
+
 -----------------------------------------------------------------------------------------------------------
 🧰 Tools & Resourse
-
-Tool	Purpose
+-----------------------------------------------------------------------------------------------------------
 
 CSV - Datasets	Source files from ERP & CRM systems
 
@@ -49,12 +51,13 @@ Draw.io -	Diagrams for architecture & data models
 
 Notion - Project planning & execution framework
 
+-----------------------------------------------------------------------------------------------------------
 📌 All tools and resources used in this project are freely available!
 ------------------------------------------------------------------------------------------------------------
 📂 Project Breakdown
-
+-------------------------------------------------------------------------------------------------------------
 🧱 Data Engineering Phase
-
+--------------------------------------------------------------------------------------------------------------
 Objective: Build a centralized sales data warehouse using SQL Server. Key Tasks:
 
 Import & cleanse ERP + CRM data (CSV format)
@@ -66,9 +69,10 @@ Integrate into a unified dimensional model
 Focus on most recent transactional data (non-historical)
 
 Document schema for clarity & reusability
+
 -------------------------------------------------------------------------------------------------------------------
 🔍 Analytics Phase
-
+-------------------------------------------------------------------------------------------------------------------
 Objective: Derive business-ready insights using SQL queries. Analytical Focus:
 
 Customer segmentation & retention
